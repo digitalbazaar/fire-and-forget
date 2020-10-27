@@ -1,4 +1,4 @@
-# fireAndForget
+# fire-and-forget
 Handles firing an API call without awaiting for a response.
 
 ## Table of Contents
@@ -13,8 +13,8 @@ Handles firing an API call without awaiting for a response.
 ### Set Up
 
 ```sh
-git clone git@github.com:digitalbazaar/fireAndForget.git
-cd fireAndForget
+git clone git@github.com:digitalbazaar/fire-and-forget.git
+cd fire-and-forget
 npm install
 ```
 

@@ -5,7 +5,7 @@
   "module": "main.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:digitalbazaar/fireAndForget.git"
+    "url": "git@github.com:digitalbazaar/fire-and-forget.git"
   },
   "author": {
     "name": "Digital Bazaar, Inc.",
